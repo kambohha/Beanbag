@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:padding="10dp"
+        android:layout_height="match_parent"
+        >
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            app:cardCornerRadius="20dp"
+            app:cardBackgroundColor="#E91E63">
+            <TextView
+                android:id="@+id/textname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="BeanBag Chairs"
+                android:textSize="25sp"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                />
+
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            app:cardCornerRadius="20dp"
+            android:layout_marginTop="15dp"
+            app:cardBackgroundColor="#E91E63">
+            <TextView
+                android:id="@+id/textname1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="BeanBag Lounges"
+                android:textSize="25sp"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                />
+
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            app:cardCornerRadius="20dp"
+            android:layout_marginTop="15dp"
+            app:cardBackgroundColor="#E91E63">
+            <TextView
+                android:id="@+id/textname2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Bean Bags"
+                android:textSize="25sp"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                />
+
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            app:cardCornerRadius="20dp"
+            android:layout_marginTop="15dp"
+            app:cardBackgroundColor="#E91E63">
+            <TextView
+                android:id="@+id/textname3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cushions and Ottomans"
+                android:textSize="25sp"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                />
+
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            app:cardCornerRadius="20dp"
+            android:layout_marginTop="15dp"
+            app:cardBackgroundColor="#E91E63">
+            <TextView
+                android:id="@+id/textname4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dog beds"
+                android:textSize="25sp"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                />
+
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            app:cardCornerRadius="20dp"
+            android:layout_marginTop="15dp"
+            app:cardBackgroundColor="#E91E63">
+            <TextView
+                android:id="@+id/textname5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Interior Design"
+                android:textSize="25sp"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                />
+
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            app:cardCornerRadius="20dp"
+            android:layout_marginTop="15dp"
+            app:cardBackgroundColor="#E91E63">
+            <TextView
+                android:id="@+id/textname6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Kids BeanBags"
+                android:textSize="25sp"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                />
+
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            app:cardCornerRadius="20dp"
+            android:layout_marginTop="15dp"
+            app:cardBackgroundColor="#E91E63">
+            <TextView
+                android:id="@+id/textname7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Outdoor Furniture"
+                android:textSize="25sp"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                />
+
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            app:cardCornerRadius="20dp"
+            android:layout_marginTop="15dp"
+            app:cardBackgroundColor="#E91E63">
+            <TextView
+                android:id="@+id/textname8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Pool BeanBags"
+                android:textSize="25sp"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                />
+
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            app:cardCornerRadius="20dp"
+            android:layout_marginTop="15dp"
+            app:cardBackgroundColor="#E91E63">
+            <TextView
+                android:id="@+id/textname9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Back"
+                android:textSize="25sp"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                />
+
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
